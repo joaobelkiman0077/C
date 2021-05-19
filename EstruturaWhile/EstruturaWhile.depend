@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578769918 source:d:\treinaweb\logica de programação\c\estruturawhile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
